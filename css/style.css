@@ -1,11 +1,11 @@
 * {
     padding: 0;
-    margin: 0;   
+    margin: 0;
 }
 
 html, body {
-    height:100%; 
-    width:100%; 
+    height:100%;
+    width:100%;
 }
 
 body {
@@ -45,12 +45,12 @@ p {
 
 
 hr{
-    border-color: #DAA520;
+    border-color: red;
     border-width: 5px;
     width: 100px;
     max-width: 100px;
     margin: 25px auto;
-    border-bottom: none;    
+    border-bottom: none;
 }
 
 .btn {
@@ -241,7 +241,7 @@ header{
 }
 
 
-.pillars {    
+.pillars {
     padding: 0px 0px 60px;
     margin-top: 0px;
     text-align: center;
@@ -262,13 +262,13 @@ header{
 }
 
 
-.pillars p { 
+.pillars p {
     font-size: 18px;
     padding-bottom: 0px;
 }
 
 
-.pillars i {   
+.pillars i {
     height: 80px;
     width: 80px;
     /*font-size: 30px;*/
@@ -300,9 +300,9 @@ header{
 }
 
 @media(max-width:768px) {
-    
+
     .pillars {
-        
+
         padding: 30px;
     }
 }
@@ -316,12 +316,12 @@ header{
 .explore .carousel-inner .item img {
     overflow: hidden;
 }
-.explore .carousel-inner .item, 
+.explore .carousel-inner .item,
 .explore .carousel-inner .item img.scale {
     max-height: 200px;
 }
 @media screen and (min-width: 768px) {
-    .explore .carousel-inner .item, 
+    .explore .carousel-inner .item,
     .explore .carousel-inner .item img.scale {
         max-height: 400px;
     }
@@ -384,7 +384,7 @@ header{
 }
 
 .placements i {
-    
+
     height: 30px;
     width: 30px;
     padding: 5px;
@@ -399,7 +399,7 @@ header{
 }
 
 @media(max-width:768px) {
-    .placements {   
+    .placements {
         padding: 30px;
     }
 }
@@ -433,12 +433,12 @@ header{
     text-align: left;
 }
 
-.events .carousel-control.left, 
+.events .carousel-control.left,
 .events .carousel-control.right {
     background-image: none
 }
 
-@media(max-width:768px) {   
+@media(max-width:768px) {
     .events img {
         height: 300px;
         padding: 30px;
@@ -466,7 +466,7 @@ header{
 
 .join {
     background-color: #181818;
-    overflow: auto;  
+    overflow: auto;
     padding: 30px;
     padding-bottom: 100px;
 
@@ -495,14 +495,14 @@ header{
     text-align: left;;
 }
 
-.join .col-md-6, 
+.join .col-md-6,
 .join .col-lg-6{
     padding-left: 50px;
     padding-right: 50px;
 }
 
 
-.join .packages {    
+.join .packages {
     padding: 30px;
     border: 1px solid #ccc;
     background-color: black;
@@ -531,10 +531,10 @@ header{
     padding-right: 30px;
     padding-top: 50px;
     padding-bottom: 50px;
-    
+
 }
 
-@media(max-width:768px) {   
+@media(max-width:768px) {
     .join-home .main-heading{
         color: white;
         font-size: 36px;
@@ -553,7 +553,7 @@ header{
         padding-bottom: 20px;
     }
 
-    .join .col-md-6, 
+    .join .col-md-6,
     .join .col-lg-6{
         padding-left: 10px;
         padding-right: 10px;
@@ -588,7 +588,7 @@ header{
 }
 
 
-.media p i {   
+.media p i {
     color: black
     height: 50px !important;
     width: 50px !important;
@@ -598,11 +598,11 @@ header{
     border-radius: 8px;
     padding-top: 9px;
     padding-bottom: 9px;
-    
+
 }
 
-.media p i: hover {   
-    background-color: gray;   
+.media p i: hover {
+    background-color: gray;
 }
 
 .media .social-media {
@@ -643,23 +643,23 @@ header{
 }
 
 .media .facebook-page {
-    padding-left: 30px; 
+    padding-left: 30px;
     padding-right: 30px;
 }
 
-@media(max-width:768px) {    
+@media(max-width:768px) {
     #instafeed img {
         width: 30%;
     }
 
     .media .container {
-        width: 300px; 
+        width: 300px;
     }
 
     .facebook-page {
         padding-left: 0px;
         padding-right: 0px;
-        width: 300px; 
+        width: 300px;
         margin-left: -65px;
 
     }
@@ -680,14 +680,14 @@ header{
 
 
 
-.contact {   
+.contact {
     padding: 30px;
     color: #cccccc;
     background-color: #222222;
 }
 
 
-.contact .social {   
+.contact .social {
     font-size: 20px;
     height: 30px;
     width: 30px;
@@ -699,5 +699,3 @@ header{
 }
 
 /***** END FOOTER *****/
-
-
