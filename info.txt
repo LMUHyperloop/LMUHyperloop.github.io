@@ -1,0 +1,40 @@
+Front Page:
+
+Welcome to LMU Hyperloop
+Our team focuses on:
+  - Simplicity
+  - Scalability
+  - Safety
+  (Talk about why each)
+
+What is Hyperloop? section:
+  - Hyperloop is a transportation system first introduced by Elon Musk that is composed of a vacuumed system of tubes, through which a pod may transport passengers or cargo.
+  - The lack of friction and air resistance would in theory reduce travel time and create a very efficient transport system.
+
+Why compete?:
+  -Hyperloop is still a working concept. SpaceX's Hyperloop competition is meant to "accelerate the development of functional prototypes and encourage student innovation".
+
+For more info, visit SpaceX's Hyperloop page:
+http://www.spacex.com/hyperloop
+
+About:
+
+
+Our Pod:
+
+Our Team:
+  - List of team members + role
+  - NavBar between:
+    - Project Leads
+    - Mechanical
+    - Electrical
+    - Software and Electronics
+    - business
+    - Advisors
+
+Sponsors:
+- Getting list of sponsors soon
+
+Contact:
+Anthony's Email
+Lauren's Email(?)
