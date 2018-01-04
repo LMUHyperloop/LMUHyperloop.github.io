@@ -43,7 +43,6 @@ p {
     bottom: 0;
 }
 
-
 .carousel,
 .carousel-item,
 .active {
@@ -87,8 +86,6 @@ p {
     letter-spacing: 5px;
 }
 
-.title{ color:white; font-size:40px; }
-
 .carousel-caption {
     position: absolute;
     top: 0;
@@ -116,7 +113,7 @@ p {
 }
 
 
-.pillars i {   
+.values i {   
     font-size: 60px;
     padding: 30px;
 }
