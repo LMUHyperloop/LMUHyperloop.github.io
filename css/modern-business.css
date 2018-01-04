@@ -105,16 +105,15 @@ p {
     height: 100%;
 }
 
-@media(max-width: 768px) {
+@media(max-width: 550px) {
     .main-heading {
-        font-size: 50px;
+        font-size: 30px;
     }
 
     .small-heading {
-        font-size: 20px;
+        font-size: 17px;
     }
 }
-
 
 
 .pillars i {   
