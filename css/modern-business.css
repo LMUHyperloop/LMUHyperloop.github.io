@@ -13,6 +13,15 @@ body {
     padding-top: 56px;
   }
 }
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
 
 .carousel-item {
   height: 65vh;
@@ -26,4 +35,13 @@ body {
 
 .portfolio-item {
   margin-bottom: 30px;
+}
+
+.logo {
+  height: 125px;
+  width: 125px;
+}
+
+.navbar-light {
+  opacity: 0.9;
 }
