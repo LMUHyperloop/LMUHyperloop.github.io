@@ -18,6 +18,19 @@ header{
     background-color: black;
 }
 
+section {
+  padding: 40px;
+}
+
+.nopadding {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+p {
+  font-weight: lighter;
+}
+
 .overlay{
     display: block;
     width: 100%;
@@ -101,3 +114,29 @@ header{
         font-size: 20px;
     }
 }
+
+
+
+.pillars i {   
+    font-size: 60px;
+    padding: 30px;
+}
+
+
+.features-bg {
+    position: relative;
+    min-height: 400px;
+    background: url('http://menstrait.com/wp-content/uploads/2016/02/Hyperloop.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.features-bg-right {
+    position: relative;
+    min-height: 400px;
+    background: url('https://www.techbookx.com/wp-content/uploads/2017/06/HyperloopTT_station-1.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+
+
+
