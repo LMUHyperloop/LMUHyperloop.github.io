@@ -4,26 +4,100 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
  */
 
+html, body {
+    height:100%; 
+    width:100%; 
+}
+
 body {
   padding-top: 54px;
 }
 
-@media (min-width: 992px) {
-  body {
-    padding-top: 56px;
-  }
+
+header{
+    background-color: black;
 }
 
-.carousel-item {
-  height: 65vh;
-  min-height: 300px;
-  background: no-repeat center center scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+.overlay{
+    display: block;
+    width: 100%;
+    background-color: black;
+    opacity: 0.2;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
 }
 
-.portfolio-item {
-  margin-bottom: 30px;
+
+.carousel,
+.carousel-item,
+.active {
+    height: 100%;
+}
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.carousel,
+.carousel-inner {
+  width:100%;
+  height:100%;
+  z-index:0;
+  overflow:hidden;
+    display: block;
+    transition: none;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.main-heading{
+    color: white;
+    font-size: 80px;
+    letter-spacing: 5px;
+}
+
+.small-heading{
+    color: white;
+    font-size: 30px;
+    font-weight: lighter;
+    letter-spacing: 5px;
+}
+
+.title{ color:white; font-size:40px; }
+
+.carousel-caption {
+    position: absolute;
+    top: 0;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -moz-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    height: 100%;
+}
+
+@media(max-width: 768px) {
+    .main-heading {
+        font-size: 50px;
+    }
+
+    .small-heading {
+        font-size: 20px;
+    }
 }
