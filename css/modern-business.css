@@ -9,11 +9,6 @@ html, body {
     width:100%;
 }
 
-body {
-  padding-top: 54px;
-}
-
-
 header{
     background-color: black;
 }
@@ -111,16 +106,6 @@ p {
         font-size: 17px;
     }
 }
-/*!
- * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
- * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
- */
-
-body {
-  padding-top: 54px;
-}
-
 
 .values i {
     font-size: 60px;
@@ -149,4 +134,8 @@ body {
 
 .navbar-light {
   opacity: 0.9;
+}
+
+.start-content {
+  padding-top: 54px;
 }
