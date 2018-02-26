@@ -116,14 +116,14 @@ p {
 .features-bg {
     position: relative;
     min-height: 400px;
-    background: url('http://menstrait.com/wp-content/uploads/2016/02/Hyperloop.jpg') no-repeat center center;
+    background: url('/images/life-science.jpg') no-repeat center center;
     background-size: cover;
 }
 
 .features-bg-right {
     position: relative;
     min-height: 400px;
-    background: url('https://www.techbookx.com/wp-content/uploads/2017/06/HyperloopTT_station-1.jpg') no-repeat center center;
+    background: url('/images/library.jpg') no-repeat center center;
     background-size: cover;
 }
 
