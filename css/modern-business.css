@@ -139,3 +139,7 @@ p {
 .start-content {
   padding-top: 54px;
 }
+
+.tab-pane {
+  padding-top: 40px;
+}
